@@ -1,4 +1,4 @@
-string_1 = input()
+# string_1 = input()
 # string_2 = input()
 #
 # current_string = ""
