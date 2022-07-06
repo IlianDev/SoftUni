@@ -1,0 +1,16 @@
+ body{
+    font-family: 'Pacifico', cursive;
+    font-family: 'Potta One', cursive;
+ }
+
+h1 {
+    color: red;
+}
+
+P {
+    background: rgb(255, 255, 255);
+    color: white;
+}
+.pink{
+    color: pink;
+}
