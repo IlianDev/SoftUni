@@ -1,6 +1,6 @@
 n = int(input())
 
-courses_list = []  # pravim prazen list kydeto shte go pylnim
+courses_list = []
 
 for rows in range(n):
     course_name = input()
