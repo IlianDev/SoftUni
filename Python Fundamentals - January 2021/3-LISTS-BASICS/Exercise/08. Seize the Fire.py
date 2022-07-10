@@ -31,3 +31,33 @@ for fire_value in put_out_fire:
 
 print(f"Effort: {effort:.2f}")
 print(f"Total Fire: {sum(put_out_fire)}")
+
+
+"""
+<I>
+Expected input: 
+High = 89#Low = 28#Medium = 77#Low = 23
+1250
+
+output:
+Cells:
+ - 89
+ - 28
+ - 77
+ - 23
+Effort: 54.25
+Total Fire: 217
+
+<II>
+expected input:
+High = 150#Low = 55#Medium = 86#Low = 40#High = 110#Medium = 77
+220
+
+output:
+Cells:
+ - 40
+ - 110
+Effort: 37.50
+Total Fire: 150
+
+"""
