@@ -4,7 +4,6 @@ def chek_if_palindrome(el):
     return False
 
 
-
 nums_as_string = input().split(", ")
 
 for element in nums_as_string:
