@@ -7,4 +7,5 @@ while not note == "End":
     todo_list[importance] = task
     note = input()
 
-print([task for task in todo_list if task != 0])
+# print([task for task in todo_list if task != 0])
+print(todo_list)
