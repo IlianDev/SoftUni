@@ -13,3 +13,14 @@ while nums:
         nums.remove(num)
     print(f"Group of {group}'s: {nums_group}")
     group += 10
+
+"""
+input example: 
+1, 3, 3, 4, 34, 35, 25, 21, 33
+
+expected output:
+Group of 10's: [1, 3, 3, 4]
+Group of 20's: []
+Group of 30's: [25, 21]
+Group of 40's: [34, 35, 33]
+"""
