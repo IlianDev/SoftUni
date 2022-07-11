@@ -2,6 +2,7 @@ import math
 
 nums = list(map(int, input().split(', ')))
 max_num = max(nums)
+# number of groups:
 groups_count = math.ceil(max_num / 10)
 
 for group in range(1, groups_count + 1):

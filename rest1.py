@@ -1,4 +1,4 @@
-a = 100
-result = a // 10
-print(result)
+n = "apple"
 
+for i in range(len(n)):
+    print(n[i])
