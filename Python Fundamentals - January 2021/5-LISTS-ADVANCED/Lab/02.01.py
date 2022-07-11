@@ -8,4 +8,4 @@ while command != 'End':
 
     command = input()
 
-print(todo_list)
+print([element for element in todo_list if element != 0])
