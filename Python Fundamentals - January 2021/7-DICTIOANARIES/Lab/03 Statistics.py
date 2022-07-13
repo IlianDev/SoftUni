@@ -1,3 +1,21 @@
+"""
+INPUT
+bread: 4
+cheese: 2
+ham: 1
+bread: 1
+statistics
+
+OUTPUTS
+Products in stock:
+- bread: 5
+- cheese: 2
+- ham: 1
+Total Products: 3
+Total Quantity: 8
+
+"""
+
 data = input()
 prducts_dict = {}
 
