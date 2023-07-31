@@ -30,9 +30,10 @@
 (?(id)yes|no)	match 'yes' if group 'id' matched, else 'no'
 
 3. Quantifiers
-*	0 or more (append ? for non-greedy)
+*	0 or more (append ? for non-greedy) -
 +	1 or more (append ? for non-greedy)
 ?	0 or 1 (append ? for non-greedy)
+|   either or
 {m}	exactly mm occurrences
 {m, n}	from m to n. m defaults to 0, n to infinity
 {m, n}?	from m to n, as few as possible
