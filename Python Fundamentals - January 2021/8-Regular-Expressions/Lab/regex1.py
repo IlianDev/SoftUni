@@ -1,4 +1,4 @@
-text = "Hello there some nums 1234. That is all."
+text = "Hello there some nums 1234. That is all. Hello"
 
 index = 0
 nums = ""
