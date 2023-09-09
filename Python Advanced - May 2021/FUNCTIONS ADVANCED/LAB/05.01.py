@@ -5,3 +5,4 @@ def get_info(**kwargs):
 
 
 print(get_info(**{"name": "George", "town": "Sofia", "age": 20}))
+# print(get_info(name="Test", town="Test town", age=20))
