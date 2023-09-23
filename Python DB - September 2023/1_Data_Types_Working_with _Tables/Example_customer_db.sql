@@ -1,4 +1,3 @@
-/*
 CREATE TYPE adress as(
 	street TEXT,
 	city TEXT,
@@ -10,7 +9,7 @@ CREATE TABLE cusomers(
 	customer_name TEXT,
 	customer_adress adress
 );
-*/
+
 
 INSERT INTO
 	customers(customer_name, customer_addres)
