@@ -4,7 +4,7 @@ CREATE TYPE adress as(
 	postalCode CHAR(4)
 );
 
-CREATE TABLE cusomers(
+CREATE TABLE customers(
 	id serial PRIMARY KEY,
 	customer_name TEXT,
 	customer_adress adress
