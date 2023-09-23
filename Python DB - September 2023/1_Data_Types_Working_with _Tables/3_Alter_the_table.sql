@@ -1,0 +1,4 @@
+ALTER TABLE minions_info
+ADD COLUMN code CHAR(4),
+ADD COLUMN text TEXT,
+ADD COLUMN salary NUMERIC(8,3);
