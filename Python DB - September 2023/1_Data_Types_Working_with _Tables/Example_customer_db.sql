@@ -15,7 +15,7 @@ CREATE TABLE cusomers(
 INSERT INTO
 	customers(customer_name, customer_addres)
 VALUES
-	('Diyan',('somes street', 'Sofia', '1618'));
+	('Diyan',('some street', 'Sofia', '1618'));
 
 
 
