@@ -11,4 +11,3 @@ Where
 	salary > 1000
 	and department_id = 4
 Order by id
-	
