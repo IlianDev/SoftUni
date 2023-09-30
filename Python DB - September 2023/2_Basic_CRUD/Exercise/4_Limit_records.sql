@@ -18,6 +18,5 @@ LIMIT 50;
 -- 	job_title as "Job Title"
 -- FROM
 -- 	employees
--- ORDER BY
--- 	first_name ASC
+-- ORDER BY first_name ASC
 -- LIMIT 50;
