@@ -1,3 +1,11 @@
+/*
+ To begin, the initial step is to generate a database known as softuni_management_db and subsequently launch its
+ query tool. Then, you need to download the file 02-Exercise-Basic-CRUD-softuni_management_db.sql from the course
+ instance and import it into the query section of your database. Following the import process, you should run the
+ queries included in the file. Once the queries have been executed, it is recommended that you become familiar with the
+ database schemas and tables in the softuni_management_db before proceeding with the following tasks.
+ */
+
 CREATE DATABASE softuni_management_db;
 
 CREATE TABLE IF NOT EXISTS addresses (
