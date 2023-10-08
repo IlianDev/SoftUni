@@ -8,4 +8,3 @@ where
 		OR
 	number < 1000;
 
-	
